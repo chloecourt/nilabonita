@@ -519,6 +519,38 @@ video {
   --tw-backdrop-sepia: ;
 }
 
+.twcss-absolute {
+  position: absolute;
+}
+
+.twcss-relative {
+  position: relative;
+}
+
+.twcss-top-0 {
+  top: 0px;
+}
+
+.twcss-bottom-0 {
+  bottom: 0px;
+}
+
+.twcss-left-0 {
+  left: 0px;
+}
+
+.twcss-right-0 {
+  right: 0px;
+}
+
+.twcss-z-0 {
+  z-index: 0;
+}
+
+.twcss-z-10 {
+  z-index: 10;
+}
+
 .twcss-h-40 {
   height: 10rem;
 }
@@ -533,6 +565,10 @@ video {
 
 .twcss-h-80 {
   height: 20rem;
+}
+
+.twcss-h-full {
+  height: 100%;
 }
 
 @keyframes twcss-ping {
