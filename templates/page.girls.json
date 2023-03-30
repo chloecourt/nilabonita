@@ -58,12 +58,12 @@
     "bee8b9af-9a96-4e49-874f-bea9533fcb8a": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
-        "heading_size": "h1",
+        "title": "Girls",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
+        "collection": "girls",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -88,7 +88,7 @@
         "template--18424445305109__16be2ae9-6c70-44a9-b67a-7392300a512f-168017864389025df0-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "boys"
           }
         },
         "template--18424445305109__16be2ae9-6c70-44a9-b67a-7392300a512f-168017864389025df0-1": {
