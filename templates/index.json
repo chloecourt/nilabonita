@@ -132,8 +132,10 @@
         "button"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image": "shopify:\/\/shop_images\/750e72c9cb9734947d333785d9a747e2.jpg",
+        "image_2": "shopify:\/\/shop_images\/8f16184661aa4b94828254899cbdc5cf.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
