@@ -172,7 +172,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>made for kids on the move<\/p>",
+            "heading": "<h1>made for kids on the move<\/h1>",
             "heading_size": "h1"
           }
         },
