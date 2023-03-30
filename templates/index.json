@@ -38,7 +38,7 @@
         "image": "shopify:\/\/shop_images\/750e72c9cb9734947d333785d9a747e2.jpg",
         "image_2": "shopify:\/\/shop_images\/8f16184661aa4b94828254899cbdc5cf.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -75,7 +75,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 4,
-        "padding_bottom": 36
+        "padding_bottom": 20
       }
     },
     "f8de0ccf-5ac4-41b9-8b51-7b097da4bc2f": {
