@@ -172,7 +172,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>made for kids on the move<\/h1>",
+            "heading": "<h1>Designed for kids on the move<\/h1>",
             "heading_size": "h1"
           }
         },
@@ -199,7 +199,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
